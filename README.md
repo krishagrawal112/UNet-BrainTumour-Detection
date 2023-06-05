@@ -8,5 +8,5 @@ A U-net was created with the appropriate encoder and decoder paths. The model wa
 ## Dataset
 The dataset for the project can be found here: https://www.dropbox.com/s/zmytk2yu284af6t/Task01_BrainTumour_2D.tar.gz
 
-## Results
+## Sample Results
 ![](sample_result.png)
